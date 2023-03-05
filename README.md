@@ -46,10 +46,20 @@ Some Python libraries:
   > import tensorflow as tf
   > from tensorflow import keras
 
+- [Streamlit](https://streamlit.io/)
+  Streamlit lets you turn data scripts into shareable web apps.
+  [Repo Git Hub](https://github.com/streamlit/streamlit)
+  
 ## Some youtube channels
 
+## Some courses
+
+## Projects
+- https://github.com/deepfindr/gnn-project
+- 
 ## What I need?
 I need:
 - Account [Git Hub](https://github.com/)
 - A place where we can programming, I'm using [Visual Studio Code](https://code.visualstudio.com/)
+- [Anaconda](https://www.anaconda.com/products/distribution)
 
