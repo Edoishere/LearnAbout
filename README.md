@@ -4,6 +4,7 @@ This is a place where I want to trace my path.
 # Useful Libraries
 Some Python libraries:
 - [Numpy](https://numpy.org/doc/stable/#)
+
   NumPy can be imported in Python as follows:
   > import numpy as np
 - [Matplotlib](https://matplotlib.org/stable/index.html#)
