@@ -114,3 +114,5 @@ I need:
 <a name="github" />
 
 ## GitHub
+
+I create a repository for, a sort of, personal web site. To do this I use [Github.io](https://pages.github.com/?(null))
