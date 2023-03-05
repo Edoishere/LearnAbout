@@ -64,6 +64,8 @@ Some Python libraries:
   
 ## Some youtube channels
 
+- [Edureka!](https://www.youtube.com/@edurekaIN)
+
 ## Some courses
 
 <a name="projects" />
