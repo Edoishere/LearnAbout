@@ -67,6 +67,7 @@ Some Python libraries:
 ## Some courses
 
 <a name="projects" />
+
 ## Projects
 - https://github.com/deepfindr/gnn-project
 - 
