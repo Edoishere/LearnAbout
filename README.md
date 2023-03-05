@@ -39,7 +39,7 @@ Some Python libraries:
   
   There is a useful version of PyTorch to do GNN and [here](https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html) there is a course.
   
-  - [Keras](https://keras.io/)
+- [Keras](https://keras.io/)
 
   Keras is a high-level machine learning library that is built on top of TensorFlow. It is designed to make it easy to build and train deep learning models. Keras provides a range of layers and models that can be used to build neural networks and other machine learning models.
   Keras can be imported in Python as follow:
