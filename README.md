@@ -28,6 +28,21 @@ Some Python libraries:
   > from sklearn.linear_model import LinearRegression
   
   > from sklearn.metrics import r2_score
+- [TensorFlow](https://www.tensorflow.org/?hl=it)
+  
+  TensorFlow can be imported in Python as follow:
+  > import tensorflow as tf
+- [PyTorch](https://pytorch.org/)
+  
+  PyTorch can be imported in Python as follow:
+  > import torch
+- [Keras](https://keras.io/)
+
+  Keras is a high-level machine learning library that is built on top of TensorFlow. It is designed to make it easy to build and train deep learning models. Keras provides a range of layers and models that can be used to build neural networks and other machine learning models.
+  Keras can be imported in Python as follow:
+  > import tensorflow as tf
+  > from tensorflow import keras
+  
 # Useful sources
 https://pytorch-geometric.readthedocs.io/en/latest/get_started/colabs.html
 
