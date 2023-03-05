@@ -3,8 +3,8 @@ This is a place where I want to trace my path.
 
 ## Contents
 
-
 - [**Libraries**](#resources)
+- [**Projects**](#projects)
 
 
 
@@ -66,6 +66,7 @@ Some Python libraries:
 
 ## Some courses
 
+<a name="projects" />
 ## Projects
 - https://github.com/deepfindr/gnn-project
 - 
