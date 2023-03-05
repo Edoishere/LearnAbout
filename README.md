@@ -1,6 +1,17 @@
 # LearnAbout
 This is a place where I want to trace my path.
 
+## Contents
+
+
+- [**Educational Resources**](#resources)
+
+
+
+
+<br /><br />
+
+<a name="resources" />
 ## Useful Libraries
 Some Python libraries:
 - [Numpy](https://numpy.org/doc/stable/#)
