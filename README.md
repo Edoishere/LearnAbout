@@ -1,7 +1,7 @@
 # LearnAbout
 This is a place where I want to trace my path.
 
-# Useful Libraries
+## Useful Libraries
 Some Python libraries:
 - [Numpy](https://numpy.org/doc/stable/#)
 
@@ -46,9 +46,9 @@ Some Python libraries:
   > import tensorflow as tf
   > from tensorflow import keras
 
-# Some youtube channels
+## Some youtube channels
 
-# What I need?
+## What I need?
 I need:
 - Account [Git Hub](https://github.com/)
 - A place where we can programming, I'm using [Visual Studio Code](https://code.visualstudio.com/)
