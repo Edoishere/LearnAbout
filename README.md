@@ -5,6 +5,9 @@ This is a place where I want to trace my path.
 
 - [**What I need**](#whatineed)
 - [**GitHub**](#github)
+- [**Visual Studio Code**](#visualstudiocode)
+- [**Anaconda**](#anaconda)
+- [**Kaggle**](#kaggle)
 - [**Libraries**](#libraries)
   - [Numpy](#numpy)
   - [Matplotlib](#matplotlib)
