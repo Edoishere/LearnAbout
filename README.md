@@ -3,7 +3,9 @@ This is a place where I want to trace my path.
 
 ## Contents
 
-- [**Libraries**](#resources)
+- [**What I need**](#whatineed)
+- [**GitHub**](#github)
+- [**Libraries**](#libraries)
   - [Numpy](#numpy)
   - [Matplotlib](#matplotlib)
   - [Pandas](#pandas)
@@ -19,6 +21,8 @@ This is a place where I want to trace my path.
 
 <br /><br />
 
+<a name="whatineed" />
+
 ## What I need?
 I need:
 - Account [Git Hub](https://github.com/)
@@ -26,7 +30,20 @@ I need:
 - [Anaconda](https://www.anaconda.com/products/distribution)
 - [kaggle](https://www.kaggle.com/)
 
-<a name="resources" />
+<a name="github" />
+
+## GitHub
+
+I create a repository for, a sort of, personal web site. To do this I use [Github.io](https://pages.github.com/?(null))
+https://gprm.itsvg.in/
+
+How upload files on a repository https://www.youtube.com/watch?v=qMck70tLDuo
+
+## How to import data in Python?
+  The most common library that you have to use to import data in Python is [pandas](pandas).
+  youtube video: https://www.youtube.com/watch?v=9xcY6YDu-Ks
+
+<a name="libraries" />
 
 ## Useful Libraries
 Some Python libraries:
@@ -101,9 +118,7 @@ Some Python libraries:
   
   [Repo Git Hub](https://github.com/streamlit/streamlit)
 
-## How to import data in Python?
-  The most common library that you have to use to import data in Python is [pandas](pandas).
-  youtube video: https://www.youtube.com/watch?v=9xcY6YDu-Ks
+
 ## Some youtube channels
 
 - [Edureka!](https://www.youtube.com/@edurekaIN)
@@ -118,9 +133,4 @@ Some Python libraries:
 
 <a name="github" />
 
-## GitHub
 
-I create a repository for, a sort of, personal web site. To do this I use [Github.io](https://pages.github.com/?(null))
-https://gprm.itsvg.in/
-
-How upload files on a repository https://www.youtube.com/watch?v=qMck70tLDuo
