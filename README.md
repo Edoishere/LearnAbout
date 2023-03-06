@@ -93,7 +93,10 @@ Some Python libraries:
   Streamlit lets you turn data scripts into shareable web apps.
   
   [Repo Git Hub](https://github.com/streamlit/streamlit)
-  
+
+## How to import data in Python?
+  The most common library that you have to use to import data in Python is [pandas](pandas).
+  youtube video: https://www.youtube.com/watch?v=9xcY6YDu-Ks
 ## Some youtube channels
 
 - [Edureka!](https://www.youtube.com/@edurekaIN)
