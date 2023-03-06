@@ -117,3 +117,5 @@ I need:
 
 I create a repository for, a sort of, personal web site. To do this I use [Github.io](https://pages.github.com/?(null))
 https://gprm.itsvg.in/
+
+How upload files on a repository https://www.youtube.com/watch?v=qMck70tLDuo
