@@ -15,7 +15,6 @@ This is a place where I want to trace my path.
   - [Keras](#keras)
   - [Streamlit](#steamlit)
 - [**Projects**](#projects)
-- [**GitHub**](#github)
 
 
 
@@ -130,7 +129,5 @@ Some Python libraries:
 ## Projects
 - https://github.com/deepfindr/gnn-project
 - 
-
-<a name="github" />
 
 
