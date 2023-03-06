@@ -19,6 +19,13 @@ This is a place where I want to trace my path.
 
 <br /><br />
 
+## What I need?
+I need:
+- Account [Git Hub](https://github.com/)
+- A place where we can programming, I'm using [Visual Studio Code](https://code.visualstudio.com/)
+- [Anaconda](https://www.anaconda.com/products/distribution)
+- [kaggle](https://www.kaggle.com/)
+
 <a name="resources" />
 
 ## Useful Libraries
@@ -108,11 +115,6 @@ Some Python libraries:
 ## Projects
 - https://github.com/deepfindr/gnn-project
 - 
-## What I need?
-I need:
-- Account [Git Hub](https://github.com/)
-- A place where we can programming, I'm using [Visual Studio Code](https://code.visualstudio.com/)
-- [Anaconda](https://www.anaconda.com/products/distribution)
 
 <a name="github" />
 
