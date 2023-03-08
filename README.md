@@ -41,6 +41,22 @@ https://gprm.itsvg.in/
 
 How upload files on a repository https://www.youtube.com/watch?v=qMck70tLDuo
 
+or create a new repository on the command line
+
+echo "# c" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/Edoishere/c.git
+git push -u origin master
+
+or push an existing repository from the command line
+
+git remote add origin https://github.com/Edoishere/c.git
+git branch -M master
+git push -u origin master
+
 ## How to import data in Python?
   The most common library that you have to use to import data in Python is [pandas](pandas).
   
