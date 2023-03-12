@@ -137,10 +137,20 @@ Some Python libraries:
   
   [Repo Git Hub](https://github.com/streamlit/streamlit)
 
+## Neural network:
+
+I found this series of video very useful to understand, a little bit, the topic:
+- [1 video](https://www.youtube.com/watch?v=aircAruvnKk)
+- 
 
 ## Some youtube channels
 
 - [Edureka!](https://www.youtube.com/@edurekaIN)
+- [3Blue!brown](https://www.youtube.com/@3blue1brown)
+
+## Some books:
+
+- [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
 
 ## Some courses
 
