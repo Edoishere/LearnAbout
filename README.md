@@ -150,7 +150,7 @@ I found this series of video very useful to understand, a little bit, the topic:
 
 ## Some books:
 
-- [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/)
+- [Neural Network and Deep Learning](http://neuralnetworksanddeeplearning.com/), there is also a [GitHub repository](https://github.com/mnielsen/neural-networks-and-deep-learning)
 
 ## Some courses
 
