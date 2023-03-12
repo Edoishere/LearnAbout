@@ -141,7 +141,9 @@ Some Python libraries:
 
 I found this series of video very useful to understand, a little bit, the topic:
 - [1 video](https://www.youtube.com/watch?v=aircAruvnKk)
-- 
+- [2 video](https://www.youtube.com/watch?v=IHZwWFHWa-w)
+- [3 video](https://www.youtube.com/watch?v=Ilg3gGewQ5U)
+- [4 video](https://www.youtube.com/watch?v=tIeHLnjs5U8&t=2s)
 
 ## Some youtube channels
 
